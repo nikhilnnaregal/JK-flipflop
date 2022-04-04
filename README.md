@@ -1,1 +1,1 @@
-# JK-flipflop
+# J-K-Flipflop using verilog
